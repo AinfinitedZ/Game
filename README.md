@@ -23,3 +23,5 @@ Not everyone on your team may have the same path to UnityYAMLMerge (i.e. diffren
 
 ## Opening the Project
 This project was created using `2020.3.17f1`. When you open this project in Unity, Unity may say that it needs to upgrade the project. Given this is a bare-bones project, this is a safe action and you may allow Unity to continue. Overall, your entire team should be using the **same version of Unity**.
+
+This is a comment by Daniel Lin. 
